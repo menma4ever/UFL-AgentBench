@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Automated Release Gate & Verification Engine for UFL AgentBench v1.0
+Automated Release Gate & Verification Engine for UFL AgentBench v2.0.3
 ===================================================================
 Executes exhaustive validation across:
   1. File integrity & valid JSON/JSONL parsing
@@ -31,6 +31,8 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO_ROOT))
 
 
+import datetime
+
 class ReleaseGate:
     def __init__(self):
         self.errors = []
@@ -47,7 +49,7 @@ class ReleaseGate:
 
     def run_all_checks(self) -> bool:
         print("\n" + "=" * 70)
-        print("UFL AGENTBENCH v2.0.2 - AUTOMATED RELEASE GATE")
+        print("UFL AGENTBENCH v2.0.3 - AUTOMATED RELEASE GATE")
         print("=" * 70)
 
         self.check_files_exist()
@@ -65,13 +67,31 @@ class ReleaseGate:
 
         print("\n" + "-" * 70)
         print(f"SUMMARY: {self.passed_checks} checks passed, {len(self.errors)} errors, {len(self.warnings)} warnings")
+
+        report = {
+            "validation_name": "UFL AgentBench v2.0.3 Automated Release Gate",
+            "benchmark_version": "2.0.3",
+            "timestamp": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+            "status": "PASSED" if not self.errors else "FAILED",
+            "passed_checks": self.passed_checks,
+            "error_count": len(self.errors),
+            "warning_count": len(self.warnings),
+            "errors": self.errors,
+            "warnings": self.warnings,
+        }
+        report_path = REPO_ROOT / "results" / "validation_report.json"
+        report_path.parent.mkdir(parents=True, exist_ok=True)
+        with open(report_path, "w", encoding="utf-8") as f:
+            json.dump(report, f, indent=2, ensure_ascii=False)
+        print(f"Validation report saved to: {report_path}")
+
         if self.errors:
             print("\nRELEASE GATE FAILED! Critical issues detected:")
             for err in self.errors:
                 print(f"  ✗ {err}")
             return False
         else:
-            print("\nRELEASE GATE PASSED! Dataset and evaluators verified for v2.0.2 release.")
+            print("\nRELEASE GATE PASSED! Dataset and evaluators verified for v2.0.3 release.")
             return True
 
     def check_files_exist(self):
@@ -305,8 +325,8 @@ class ReleaseGate:
         self.assert_true(summary.get("total_script_realizations") == 6018, "Manifest total_script_realizations is 6,018")
         self.assert_true(summary.get("artifact_count") == 14, "Manifest artifact_count is 14")
         self.assert_true("qa_reviews_count" not in summary, "Manifest has no legacy fake qa_reviews_count")
-        self.assert_true("automated_validation" in summary, "Manifest includes automated_validation object")
-        self.assert_true(man.get("dataset_version") == "2.0.2", "Manifest dataset_version is 2.0.2")
+        self.assert_true("automated_validation" not in summary, "Manifest summary does not contain hardcoded automated_validation")
+        self.assert_true(man.get("dataset_version") == "2.0.3", "Manifest dataset_version is 2.0.3")
 
 
 if __name__ == "__main__":

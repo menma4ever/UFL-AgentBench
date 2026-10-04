@@ -8,10 +8,9 @@ if str(repo_root) not in sys.path:
     sys.path.insert(0, str(repo_root))
 
 
-def test_manifest_structure_no_hardcoded_qa():
+def test_manifest_structure_clean_schema():
     """Verify that manifest.json does not contain legacy fake qa_reviews_count,
-
-    and instead contains the automated_validation object.
+    and does not contain hardcoded automated_validation (clean manifest schema).
     """
     manifest_path = Path(__file__).resolve().parent.parent / "manifest.json"
     assert manifest_path.exists(), "manifest.json must exist"
@@ -21,9 +20,9 @@ def test_manifest_structure_no_hardcoded_qa():
 
     summary = data.get("summary", {})
     assert "qa_reviews_count" not in summary, "qa_reviews_count must be removed from manifest"
-    assert "automated_validation" in summary, "automated_validation object must be present in manifest"
-    assert isinstance(summary["automated_validation"], dict)
-    assert data.get("dataset_version") == "2.0.2"
+    assert "automated_validation" not in summary, "automated_validation must not be hardcoded in manifest summary"
+    assert data.get("dataset_version") == "2.0.3"
+    assert data.get("schema_version") == "2.0.3"
 
 
 def test_build_manifest_without_private_commitment(tmp_path, monkeypatch):
