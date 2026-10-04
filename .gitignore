@@ -53,8 +53,10 @@ htmlcov/
 credentials.json
 .secrets/
 
-# Large test caches
+# Large test caches & scratch
 .cache/
-artifacts/eval_results/
-artifacts/
+/artifacts/eval_results/
+/artifacts/
+!datasets/gaia_uz/artifacts/
 scratch/
+

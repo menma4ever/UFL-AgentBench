@@ -1,0 +1,42 @@
+================================================================================
+MUSTAQIL AUDITORLIK TASHKILOTI XULOSASI (AUDIT REPORT)
+================================================================================
+Auditorlik tekshiruvi obyekti: "Oʻzbekiston Sanoat Qurilish Xolding" AJ
+Davr: 2025-yil 1-yanvardan 2025-yil 31-dekabrgacha boʻlgan moliyaviy yil
+Auditorlik tashkiloti: "Pricewaterhouse Audit Uzbekistan" MCHJ (Litsenziya № 00482)
+Xulosa berilgan sana: 2026-yil 10-fevral
+
+1. AUDITORNING IJOBIY (UNQUALIFIED) XULOSASI
+Biz "Oʻzbekiston Sanoat Qurilish Xolding" Aksiyadorlik Jamiyatining 2025-yil 31-dekabr holatiga tuzilgan Moliyaviy Holat Toʻgʻrisidagi Hisoboti (Buxgalteriya balansi), Yalpi Daromadlar Toʻgʻrisidagi Hisoboti, Pul Oqimlari Toʻgʻrisidagi Hisoboti hamda ularga ilova qilingan tushuntirish xatlarini MHXS (IFRS) standartlari asosida audit qildik.
+Bizning fikrimizcha, ilova qilingan moliyaviy hisobotlar Jamiyatning 2025-yil 31-dekabr holatidagi moliyaviy ahvolini va uning koʻrsatilgan sanada yakunlangan moliyaviy yil boʻyicha faoliyati natijalarini barcha muhim jihatlari boʻyicha haqqoniy va xolis aks ettiradi.
+
+2. ASOSIY MOLIYAVIY KOʻRSATKICHLAR (barcha summalar ming soʻmda koʻrsatilgan):
+- Sof tushum (Mahsulot va xizmatlarni realizatsiya qilishdan olingan daromad): 485,200,000 ming soʻm
+- Sotilgan mahsulot tannarxi: 324,500,000 ming soʻm
+- Yalpi foyda (Gross Profit): 160,700,000 ming soʻm
+- Operatsion xarajatlar (Maʼmuriy va sotish xarajatlari): 58,400,000 ming soʻm
+- Foizlar, soliqlar va amortizatsiyadan oldingi operatsion foyda (EBITDA): 122,800,000 ming soʻm
+- Amortizatsiya ajratmalari (Asosiy vositalar va nomoddiy aktivlar): 20,500,000 ming soʻm
+- Foiz xarajatlari (Kredit va qarz majburiyatlari boʻyicha): 14,200,000 ming soʻm
+- Soliq toʻlashdan oldingi foyda (EBT): 88,100,000 ming soʻm
+- Foyda soligʻi xarajati (15% stavka): 13,215,000 ming soʻm
+- Hisobot yilining sof foydasi (Net Profit): 74,885,000 ming soʻm
+
+3. BALANS KOʻRSATKICHLARI (2025-yil 31-dekabr holatiga):
+- Jami aktivlar (Total Assets): 620,000,000 ming soʻm
+  * Joriy aktivlar (Current Assets - pul mablagʻlari, debitorlik, zaxiralar): 248,000,000 ming soʻm
+  * Uzoq muddatli aktivlar (Non-current Assets): 372,000,000 ming soʻm
+- Jami majburiyatlar (Total Liabilities): 260,000,000 ming soʻm
+  * Qisqa muddatli majburiyatlar (Current Liabilities): 124,000,000 ming soʻm
+  * Uzoq muddatli majburiyatlar (Long-term Liabilities): 136,000,000 ming soʻm
+- Oʻz kapitali (Total Equity - ustav kapitali, qoʻshilgan kapital, taqsimlanmagan foyda): 360,000,000 ming soʻm
+
+4. AUDIT TAHLILI VA KOEFFITSIYENTLAR:
+- Joriy likvidlik koeffitsiyenti (Current Ratio = Joriy aktivlar / Qisqa muddatli majburiyatlar): 2.00
+- Oʻz kapital rentabelligi (ROE = Sof foyda / Oʻz kapitali): 20.80%
+- Aktivlar rentabelligi (ROA = Sof foyda / Jami aktivlar): 12.08%
+- EBITDA marjasi (EBITDA / Sof tushum): 25.31%
+================================================================================
+Bosh auditor: Ergashev Bobur Rustamovich (Sertifikat № AUD-04918)
+Auditorlik firmasi rahbari: Vohidov Sanjar Alisherovich
+================================================================================

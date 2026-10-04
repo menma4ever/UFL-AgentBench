@@ -1,0 +1,28 @@
+{
+  "moliya_yili": 2026,
+  "davlat_organi": "Ozbekiston Respublikasi Soliq qomitasi",
+  "bazaviy_korsatkichlar": {
+    "bhm_bazaviy_hisoblash_miqdori_uzs": 375000,
+    "eng_kam_ish_haqi_uzs": 1150000,
+    "yillik_inflyatsiya_maqsadli_koridori_foiz": 7.5
+  },
+  "soliq_stavkalari": {
+    "qqs_qoshilgan_qiymat_soligi_foiz": 12,
+    "jshods_daromad_soligi_foiz": 12,
+    "inps_shaxsiy_pensiya_ajratmasi_foiz": 0.1,
+    "ijtimoiy_soliq_yuridik_shaxslar_foiz": 12,
+    "ijtimoiy_soliq_byudjet_tashkilotlari_foiz": 25,
+    "foyda_soligi_bazaviy_foiz": 15,
+    "foyda_soligi_banklar_va_telekom_foiz": 20,
+    "aylanmadan_olinadigan_soliq_bazaviy_foiz": 4,
+    "divident_soligi_rezidentlar_uchun_foiz": 5,
+    "mol_mulk_soligi_yuridik_shaxslar_foiz": 1.5,
+    "yer_soligi_bazaviy_indeksatsiya_foiz": 10
+  },
+  "markaziy_bank_valyuta_kurslari_uzs": {
+    "USD": 12850.0,
+    "EUR": 13920.0,
+    "RUB": 138.5,
+    "CNY": 1780.0
+  }
+}

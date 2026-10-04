@@ -1,0 +1,162 @@
+{
+  "poyezdlar_jadvali": [
+    {
+      "reys_raqami": "AFR-762",
+      "nomi": "Afrosiyob Tezurar Poyezdi",
+      "marshrut": "Toshkent-Shimoliy - Buxoro-1",
+      "oraliq_bekatlar": [
+        "Samarqand",
+        "Navoiy"
+      ],
+      "jonash_vaqti": "07:28",
+      "yetib_borish_vaqti": "11:47",
+      "davomiyligi_daqiqa": 259,
+      "hafta_kunlari": [
+        "dushanba",
+        "seshanba",
+        "chorshanba",
+        "payshanba",
+        "juma",
+        "shanba",
+        "yakshanba"
+      ],
+      "orindiq_toifalari": {
+        "ekonom": {
+          "baza_narxi_uzs": 195000,
+          "joylar_soni": 180,
+          "bepul_bagaj_kg": 20
+        },
+        "biznes": {
+          "baza_narxi_uzs": 285000,
+          "joylar_soni": 48,
+          "bepul_bagaj_kg": 25
+        },
+        "vip": {
+          "baza_narxi_uzs": 440000,
+          "joylar_soni": 16,
+          "bepul_bagaj_kg": 30
+        }
+      },
+      "ortiqcha_bagaj_tarifi_har_kg_uzs": 15000,
+      "maksimal_ortiqcha_bagaj_kg": 15
+    },
+    {
+      "reys_raqami": "AFR-764",
+      "nomi": "Afrosiyob Tezurar Poyezdi",
+      "marshrut": "Toshkent-Shimoliy - Samarqand",
+      "oraliq_bekatlar": [],
+      "jonash_vaqti": "08:30",
+      "yetib_borish_vaqti": "10:45",
+      "davomiyligi_daqiqa": 135,
+      "hafta_kunlari": [
+        "dushanba",
+        "seshanba",
+        "chorshanba",
+        "payshanba",
+        "juma",
+        "shanba",
+        "yakshanba"
+      ],
+      "orindiq_toifalari": {
+        "ekonom": {
+          "baza_narxi_uzs": 170000,
+          "joylar_soni": 180,
+          "bepul_bagaj_kg": 20
+        },
+        "biznes": {
+          "baza_narxi_uzs": 245000,
+          "joylar_soni": 48,
+          "bepul_bagaj_kg": 25
+        },
+        "vip": {
+          "baza_narxi_uzs": 380000,
+          "joylar_soni": 16,
+          "bepul_bagaj_kg": 30
+        }
+      },
+      "ortiqcha_bagaj_tarifi_har_kg_uzs": 15000,
+      "maksimal_ortiqcha_bagaj_kg": 15
+    },
+    {
+      "reys_raqami": "AFR-766",
+      "nomi": "Afrosiyob Tezurar Poyezdi",
+      "marshrut": "Toshkent-Shimoliy - Qarshi",
+      "oraliq_bekatlar": [
+        "Samarqand"
+      ],
+      "jonash_vaqti": "17:00",
+      "yetib_borish_vaqti": "20:25",
+      "davomiyligi_daqiqa": 205,
+      "hafta_kunlari": [
+        "dushanba",
+        "seshanba",
+        "chorshanba",
+        "payshanba",
+        "juma",
+        "shanba",
+        "yakshanba"
+      ],
+      "orindiq_toifalari": {
+        "ekonom": {
+          "baza_narxi_uzs": 220000,
+          "joylar_soni": 180,
+          "bepul_bagaj_kg": 20
+        },
+        "biznes": {
+          "baza_narxi_uzs": 320000,
+          "joylar_soni": 48,
+          "bepul_bagaj_kg": 25
+        },
+        "vip": {
+          "baza_narxi_uzs": 480000,
+          "joylar_soni": 16,
+          "bepul_bagaj_kg": 30
+        }
+      },
+      "ortiqcha_bagaj_tarifi_har_kg_uzs": 15000,
+      "maksimal_ortiqcha_bagaj_kg": 15
+    },
+    {
+      "reys_raqami": "AFR-768",
+      "nomi": "Afrosiyob Tezurar Poyezdi",
+      "marshrut": "Toshkent-Shimoliy - Buxoro-1",
+      "oraliq_bekatlar": [
+        "Samarqand",
+        "Navoiy"
+      ],
+      "jonash_vaqti": "18:45",
+      "yetib_borish_vaqti": "22:58",
+      "davomiyligi_daqiqa": 253,
+      "hafta_kunlari": [
+        "dushanba",
+        "chorshanba",
+        "juma",
+        "yakshanba"
+      ],
+      "orindiq_toifalari": {
+        "ekonom": {
+          "baza_narxi_uzs": 195000,
+          "joylar_soni": 180,
+          "bepul_bagaj_kg": 20
+        },
+        "biznes": {
+          "baza_narxi_uzs": 285000,
+          "joylar_soni": 48,
+          "bepul_bagaj_kg": 25
+        },
+        "vip": {
+          "baza_narxi_uzs": 440000,
+          "joylar_soni": 16,
+          "bepul_bagaj_kg": 30
+        }
+      },
+      "ortiqcha_bagaj_tarifi_har_kg_uzs": 15000,
+      "maksimal_ortiqcha_bagaj_kg": 15
+    }
+  ],
+  "chiptalarni_qaytarish_qoidalari": {
+    "jonashdan_24_soatdan_oldin": "100% qaytariladi, komissiya ushlanmasi 15000 UZS",
+    "jonashga_6_dan_24_soatgacha": "75% qaytariladi, komissiya ushlanmasi 15000 UZS",
+    "jonashga_6_soatdan_kam_qolganda": "Mablag qaytarilmaydi (0%)"
+  }
+}

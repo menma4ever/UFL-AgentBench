@@ -1,0 +1,8 @@
+isteʼmolchi_guruhi,energiya_turi,davr_zonasi,vaqt_oraligi,tarif_koeffitsiyenti,baza_stavkasi_uzs,yakuniy_tarif_uzs,olchov_birligi
+II guruh (Sanoat korxonalari),Elektr energiyasi,Yarim pik,06:00-09:00,1.5,1000,1500,1 kWh
+II guruh (Sanoat korxonalari),Elektr energiyasi,Kunduzgi asosiy,09:00-17:00,1.0,1000,1000,1 kWh
+II guruh (Sanoat korxonalari),Elektr energiyasi,Kechki pik,17:00-22:00,1.5,1000,1500,1 kWh
+II guruh (Sanoat korxonalari),Elektr energiyasi,Tungi yengillatilgan,22:00-06:00,0.7,1000,700,1 kWh
+II guruh (Sanoat korxonalari),Tabiiy gaz,Yil davomida,Doimiy,1.0,1800,1800,1 m3
+III guruh (Savdo va xizmat korsatish),Elektr energiyasi,Doimiy,00:00-24:00,1.0,1000,1000,1 kWh
+III guruh (Savdo va xizmat korsatish),Tabiiy gaz,Yil davomida,Doimiy,1.0,1800,1800,1 m3

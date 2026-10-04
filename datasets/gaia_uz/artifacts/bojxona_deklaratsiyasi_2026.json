@@ -1,0 +1,82 @@
+{
+  "deklaratsiya_raqami": "17001/150126/0014829",
+  "bojxona_posti": "17001 - Toshkent-tovar bojxona posti",
+  "sana": "2026-01-15",
+  "declarant": {
+    "nomi": "Asia Trade Logistics MCHJ",
+    "stir": "304892115",
+    "manzil": "Toshkent shahri, Mirobod tumani, Nukus koʻchasi, 24-uy"
+  },
+  "jonatuvchi": {
+    "nomi": "Shenzhen Global Electronics Ltd",
+    "mamlakat": "Xitoy (CN)"
+  },
+  "shartnoma_raqami": "ST-2025/448",
+  "yetkazib_berish_sharti": "CIP Toshkent (Incoterms 2020)",
+  "valyuta_kodi": "USD",
+  "bojxona_kursi_usd_uzs": 12950.00,
+  "tovarlar": [
+    {
+      "tovar_raqami": 1,
+      "tovar_nomi": "Litiy-ionli akkumulyator batareyalari 48V 100Ah",
+      "tn_ved_kodi": "8507600000",
+      "miqdori": 150,
+      "olchov_birligi": "dona",
+      "netto_vazni_kg": 4500.0,
+      "brutto_vazni_kg": 4720.0,
+      "faktura_qiymati_usd": 42000.00,
+      "bojxona_qiymati_uzs": 543900000.00,
+      "bojxona_boji_stavkasi": 0.05,
+      "bojxona_boji_uzs": 27195000.00,
+      "aksiz_stavkasi": 0.0,
+      "aksiz_uzs": 0.0,
+      "qqs_stavkasi": 0.12,
+      "qqs_bazas_uzs": 571095000.00,
+      "qqs_uzs": 68531400.00
+    },
+    {
+      "tovar_raqami": 2,
+      "tovar_nomi": "Sanoat tarmoq marshrutizatorlari (Router) Wi-Fi 6",
+      "tn_ved_kodi": "8517620003",
+      "miqdori": 80,
+      "olchov_birligi": "dona",
+      "netto_vazni_kg": 320.0,
+      "brutto_vazni_kg": 360.0,
+      "faktura_qiymati_usd": 18400.00,
+      "bojxona_qiymati_uzs": 238280000.00,
+      "bojxona_boji_stavkasi": 0.00,
+      "bojxona_boji_uzs": 0.0,
+      "aksiz_stavkasi": 0.0,
+      "aksiz_uzs": 0.0,
+      "qqs_stavkasi": 0.12,
+      "qqs_bazas_uzs": 238280000.00,
+      "qqs_uzs": 28593600.00
+    },
+    {
+      "tovar_raqami": 3,
+      "tovar_nomi": "Optik tolali aloqa kabeli (armaturali, 48 yadroli)",
+      "tn_ved_kodi": "8544700000",
+      "miqdori": 25000,
+      "olchov_birligi": "metr",
+      "netto_vazni_kg": 3750.0,
+      "brutto_vazni_kg": 4100.0,
+      "faktura_qiymati_usd": 15000.00,
+      "bojxona_qiymati_uzs": 194250000.00,
+      "bojxona_boji_stavkasi": 0.05,
+      "bojxona_boji_uzs": 9712500.00,
+      "aksiz_stavkasi": 0.0,
+      "aksiz_uzs": 0.0,
+      "qqs_stavkasi": 0.12,
+      "qqs_bazas_uzs": 203962500.00,
+      "qqs_uzs": 24475500.00
+    }
+  ],
+  "jami_hisoblar": {
+    "jami_bojxona_qiymati_usd": 75400.00,
+    "jami_bojxona_qiymati_uzs": 976430000.00,
+    "jami_bojxona_boji_uzs": 36907500.00,
+    "bojxona_yigimi_uzs": 1500000.00,
+    "jami_qqs_uzs": 121600500.00,
+    "davlat_byudjetiga_jami_tolov_uzs": 160008000.00
+  }
+}

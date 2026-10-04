@@ -1,0 +1,57 @@
+================================================================================
+"TOSHKENT SAVDO" MCHJning 2025-YIL BOʻYICHA MOLIYAVIY HISOBOTLARI
+STIR (INN): 305128941 | IFUT: 47190 | Joylashgan manzili: Toshkent sh., Chilonzor tumani
+Valyuta birligi: Oʻzbekiston soʻmi (UZS)
+================================================================================
+
+1-SHAKL: BUXGALTERIYA BALANSI (2025-yil 31-dekabr holatiga)
+
+AKTIVLAR:
+I. UZOQ MUDDATLI AKTIVLAR:
+1. Asosiy vositalarning boshlangʻich qiymati:               4,500,000,000 UZS
+2. Jamlangan eskirish (amortizatsiya):                     -1,000,000,000 UZS
+   Asosiy vositalarning qoldiq qiymati:                     3,500,000,000 UZS
+I boʻlim boʻyicha jami:                                     3,500,000,000 UZS
+
+II. JORIY AKTIVLAR:
+1. Tovar-moddiy zaxiralari:                                 2,200,000,000 UZS
+2. Qisqa muddatli debitorlik qarzlari:                      1,450,000,000 UZS
+3. Pul mablagʻlari va ularning ekvivalentlari:                850,000,000 UZS
+II boʻlim boʻyicha jami (Joriy aktivlar):                   4,500,000,000 UZS
+
+AKTIVLAR BALANSI BOʻYICHA JAMI:                             8,000,000,000 UZS
+
+PASSIVLAR:
+I. OʻZ MABLAGʻLARI MANBALARI (XUSUSIY KAPITAL):
+1. Ustav kapitali:                                          4,000,000,000 UZS
+2. Rezerv kapitali:                                           250,000,000 UZS
+3. Oʻtgan yillarning taqsimlanmagan foydasi:                  750,000,000 UZS
+4. Hisobot yilining sof foydasi:                            1,000,000,000 UZS
+I boʻlim boʻyicha jami (Xususiy kapital):                   6,000,000,000 UZS
+
+II. MAJBURIYATLAR:
+1. Uzoq muddatli bank kreditlari:                                       0 UZS
+2. Qisqa muddatli kreditorlik qarzlari:                     1,550,000,000 UZS
+3. Qisqa muddatli bank qarzlari:                              450,000,000 UZS
+II boʻlim boʻyicha jami (Qisqa muddatli majburiyatlar):     2,000,000,000 UZS
+
+PASSIVLAR BALANSI BOʻYICHA JAMI:                            8,000,000,000 UZS
+
+--------------------------------------------------------------------------------
+2-SHAKL: MOLIYAVIY NATIJALAR TOʻGʻRISIDA HISOBOT (2025-yil davri uchun)
+
+1. Mahsulot (tovarlar, ishlar, xizmatlar) sotishdan sof tushum:  12,000,000,000 UZS
+2. Sotilgan tovarlarning tannarxi:                               -8,400,000,000 UZS
+3. Yalpi foyda:                                                   3,600,000,000 UZS
+4. Davr xarajatlari (maʼmuriy va tarqatish xarajatlari):         -1,500,000,000 UZS
+5. Boshqa operatsion daromadlar:                                    100,000,000 UZS
+6. Boshqa operatsion xarajatlar:                                   -200,000,000 UZS
+   Shundan soliqqa tortish bazasidan chegirilmaydigan xarajatlar:
+   - Vakillik xarajatlari meʼyordan ortiq qismi:                     80,000,000 UZS
+   - Sud va maʼmuriy jarimalar:                                     20,000,000 UZS
+7. Asosiy faoliyatning foydasi (soliq toʻlangunga qadar):         2,000,000,000 UZS
+8. Buxgalteriya foydasi boʻyicha hisoblangan foyda soligʻi:        -300,000,000 UZS
+   (Soliq kodeksiga binoan chegirilmaydigan xarajatlar soliq bazasiga qoʻshilganda:
+   Soliqqa tortiladigan foyda = 2,000,000,000 + 100,000,000 = 2,100,000,000 UZS.
+   15% stavkada haqiqiy foyda soligʻi = 315,000,000 UZS).
+================================================================================
