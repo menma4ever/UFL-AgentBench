@@ -21,8 +21,8 @@ def test_manifest_structure_clean_schema():
     summary = data.get("summary", {})
     assert "qa_reviews_count" not in summary, "qa_reviews_count must be removed from manifest"
     assert "automated_validation" not in summary, "automated_validation must not be hardcoded in manifest summary"
-    assert data.get("dataset_version") == "2.0.4"
-    assert data.get("schema_version") == "2.0.4"
+    assert data.get("dataset_version") == "2.1.0"
+    assert data.get("schema_version") == "2.1.0"
 
 
 def test_build_manifest_without_private_commitment(tmp_path, monkeypatch):
