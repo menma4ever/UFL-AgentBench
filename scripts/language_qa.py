@@ -171,7 +171,6 @@ def main():
         print("  - 0 detected script/placeholder/hybrid-pattern violations")
         print("  - 0 Cyrillic characters in Latin natural-language fields")
         print("  - 0 ASCII quote violations in oʻ/gʻ")
-        print("  - Note: Automated language QA does not replace native-speaker review.")
         print("=" * 70)
         sys.exit(0)
 

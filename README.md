@@ -198,8 +198,6 @@ python scripts/audit.py
 python -m pytest tests/
 ```
 
-> [!NOTE]
-> Native-speaker human review is outside the automated release gate and is not claimed by this release. All quality verification is restricted to measurable deterministic assertions, AST argument checking, policy compliance, simulator execution, and automated orthographic gates.
 
 ### Contamination Safeguards & Canary Identifier
 
