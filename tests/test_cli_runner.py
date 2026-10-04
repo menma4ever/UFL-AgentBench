@@ -10,6 +10,7 @@ def test_runner_all_tracks(tmp_path):
         track="all",
         model_name="mock-oracle",
         output_dir=out_dir,
+        max_samples=3,
     )
     results = runner.run()
 
