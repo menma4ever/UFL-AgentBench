@@ -167,10 +167,11 @@ def main():
             print(f"  ... and {len(all_violations) - 20} more.")
         sys.exit(1)
     else:
-        print("PASSED: 0 language quality violations across all Latin datasets!")
-        print("  - 0 Cyrillic characters in Latin fields")
+        print("PASSED: 0 automated language-gate violations across all Latin datasets!")
+        print("  - 0 detected script/placeholder/hybrid-pattern violations")
+        print("  - 0 Cyrillic characters in Latin natural-language fields")
         print("  - 0 ASCII quote violations in oʻ/gʻ")
-        print("  - 0 hybrid English words or translation artifacts")
+        print("  - Note: Automated language QA does not replace native-speaker review.")
         print("=" * 70)
         sys.exit(0)
 

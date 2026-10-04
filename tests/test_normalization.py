@@ -48,3 +48,23 @@ def test_quasi_normalize_text():
     curr = "  150 000 so'm.  "
     norm_curr = quasi_normalize_text(curr)
     assert "150 000 soʻm" == norm_curr
+
+
+def test_polite_uzbek_expression():
+    """Verify that normal polite Uzbek requests pass orthography validation and language QA."""
+    import sys
+    from pathlib import Path
+    repo_root = Path(__file__).resolve().parent.parent
+    if str(repo_root) not in sys.path:
+        sys.path.insert(0, str(repo_root))
+    from scripts.language_qa import validate_text
+
+    polite_text = "Iltimos, ushbu bronni bekor qilib bera olasizmi?"
+    norm = normalize_uzbek_orthography(polite_text)
+    issues = validate_orthography(norm)
+    assert len(issues) == 0
+
+    qa_violations = validate_text(norm, "test_context")
+    assert len(qa_violations) == 0
+
+
